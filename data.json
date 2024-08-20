@@ -1,0 +1,233 @@
+[
+    {
+        "id": 1,
+        "name": "Procenex Marina 900ml",
+        "price": 930.00,
+        "category": "Procenex",
+        "image": "assets/procenex-marina-900cc.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Procenex Lavanda 900ml",
+        "price": 930.00,
+        "category": "Procenex",
+        "image": "assets/procenex-lavanda-900cc.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Procenex Pino 900ml",
+        "price": 930.00,
+        "category": "Procenex",
+        "image": "assets/procenex-pino-900cc.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Procenex Brisa Floral 900ml",
+        "price": 930.00,
+        "category": "Procenex",
+        "image": "assets/procenex-brisa-900cc.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Procenex Limon 900ml",
+        "price": 930.00,
+        "category": "Procenex",
+        "image": "assets/procenex-limon-900cc.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Procenex Jazmin 900ml",
+        "price": 930.00,
+        "category": "Procenex",
+        "image": "assets/procenex-jazmin-900cc.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Procenex Primavera 900ml",
+        "price": 930.00,
+        "category": "Procenex",
+        "image": "assets/procenex-primavera-900cc.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Procenex Flores del Jardin 900ml",
+        "price": 930.00,
+        "category": "Procenex",
+        "image": "assets/procenex-flores-900cc.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Procenex Original 900ml",
+        "price": 1660.00,
+        "category": "Procenex",
+        "image": "assets/procenex-original-900cc.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Procenex Flores del Jardin 1,8Lts",
+        "price": 2400.00,
+        "category": "Procenex",
+        "image": "assets/procenex-flores-1,8lts.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Procenex Marina 1,8Lts",
+        "price": 2400.00,
+        "category": "Procenex",
+        "image": "assets/procenex-marina-1,8lts.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Procenex Limon 1,8Lts",
+        "price": 2400.00,
+        "category": "Procenex",
+        "image": "assets/procenex-limon-1,8lts.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Procenex Pino 1,8Lts",
+        "price": 2400.00,
+        "category": "Procenex",
+        "image": "assets/procenex-pino-1,8lts.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Procenex Lavanda 1,8Lts",
+        "price": 2400.00,
+        "category": "Procenex",
+        "image": "assets/procenex-lavanda-1,8lts.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Procenex Original 1,8Lts",
+        "price": 2400.00,
+        "category": "Procenex",
+        "image": "assets/procenex-original-1,8lts.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Procenex Marina 5Lts",
+        "price": 6070.00,
+        "category": "Procenex",
+        "image": "assets/procenex-marina-5lts.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Procenex Flores del Jardin 5Lts",
+        "price": 6070.00,
+        "category": "Procenex",
+        "image": "assets/procenex-flores-5lts.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Procenex Original 5Lts",
+        "price": 7200.00,
+        "category": "Procenex",
+        "image": "assets/procenex-original-5lts.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Harpic Citrus",
+        "price": 2900.00,
+        "category": "Harpic",
+        "image": "assets/harpic-citrus.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Harpic Frescura Floral",
+        "price": 2900.00,
+        "category": "Harpic",
+        "image": "assets/harpic-frescura.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Harpic Removedor de Sarro",
+        "price": 2900.00,
+        "category": "Harpic",
+        "image": "assets/harpic-removedor.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Harpic Blanco Brillante",
+        "price": 2900.00,
+        "category": "Harpic",
+        "image": "assets/harpic-blanco.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Harpic Original",
+        "price": 2900.00,
+        "category": "Harpic",
+        "image": "assets/harpic-original.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Woolite Ropa Oscura 900ml",
+        "price": 3860.00,
+        "category": "Woolite",
+        "image": "assets/woolite-negro.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Woolite Ropa Blanca 900ml",
+        "price": 3860.00,
+        "category": "Woolite",
+        "image": "assets/woolite-blanco.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Woolite Ropa Bebe Matic 900ml",
+        "price": 3860.00,
+        "category": "Woolite",
+        "image": "assets/woolite-verde.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Woolite Todos los Dias 900ml",
+        "price": 3860.00,
+        "category": "Woolite",
+        "image": "assets/woolite-azul.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Woolite Ropa Bebe Lavado a Mano 450ml",
+        "price": 2150.00,
+        "category": "Woolite",
+        "image": "assets/woolite-celeste.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Vanish Pre Lavado Blanco 420ml",
+        "price": 1350.00,
+        "category": "Vanish",
+        "image": "assets/vanish-prelavado-blanco.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Vanish Pre Lavado Clasico 420ml",
+        "price": 1350.00,
+        "category": "Vanish",
+        "image": "assets/vanish-prelavado-rosa.jpg"
+    },
+    {
+        "id": 31,
+        "name": "Vanish Doypack Rosa 420ml",
+        "price": 1350.00,
+        "category": "Vanish",
+        "image": "assets/vanish-rosa.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Vanish Doypack Blanco 420ml",
+        "price": 1350.00,
+        "category": "Vanish",
+        "image": "assets/vanish-blanco.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Vanish Oxi Gel 420ml",
+        "price": 1650.00,
+        "category": "Vanish",
+        "image": "assets/vanish-oxigel.jpg"
+    }
+]
